@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=5B7CFA&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Paulo+%F0%9F%91%8B;Dev+em+forma%C3%A7%C3%A3o+%7C+Fatec+DSM;Do+design+ao+deploy+%F0%9F%9A%80" alt="Olá, eu sou o Paulo. Dev em formação, Fatec DSM. Do design ao deploy.">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-2340F2?style=for-the-badge)][linkedin]
-[![GitHub](https://img.shields.io/badge/GitHub-pauloolivetti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pauloolivetti)
 [![Projeto](https://img.shields.io/badge/Projeto-encurta-FFD84A?style=for-the-badge&labelColor=12124A)](https://github.com/pauloolivetti/encurta)
 
 </div>
